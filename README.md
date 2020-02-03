@@ -5,4 +5,6 @@ Code is written for and Arduino Nano ATMega328P. Using any other microcontroller
 
 Why can't you use RC-Switch? Well the pulse width is variable. A zero is nearly half the length of a one.
 
+A note, these things do not remember their code like the old RC10's from Arlec. Each time the power is cycled the ON command must be sent so that the RC212 learns the code.
+
 ![RC212 image](RC212.png?raw=true "RC212 Image")
