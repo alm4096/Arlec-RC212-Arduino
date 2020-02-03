@@ -5,4 +5,4 @@ Code is written for and Arduino Nano ATMega328P. Using any other microcontroller
 
 Why can't you use RC-Switch? Well the pulse width is variable. A zero is nearly half the length of a one.
 
-![RC212 image](RC212.jpg?raw=true "RC212 Image")
+![RC212 image](RC212.png?raw=true "RC212 Image")
