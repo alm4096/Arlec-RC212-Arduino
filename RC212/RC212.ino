@@ -1,5 +1,5 @@
 //This is timed perfectly for the arduino nano ATmega328P old bootloader. Different micros will need different delays. If you use interrupts then this will affect send of the message.
-long delay2 = 20;
+long delay2 = 20; //You may need to play with this delay to work for you, 18 also seems to work.
 
 void Digsend(int val);
 void MessagePause();
